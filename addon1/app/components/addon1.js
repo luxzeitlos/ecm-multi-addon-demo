@@ -1,0 +1,1 @@
+export { default } from 'addon1/components/addon1';
